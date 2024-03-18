@@ -11,6 +11,6 @@ The following data cleaning operations are performed in this project:
   <li>Cleaning values in SoldAsVacant column by changing values 'Yes', 'Y', 'No', 'N' into values 'Yes' and 'No'</li>
    <li>Removing duplicate rows</li>
 </ul> 
-<H2>Report Created in Power BI</H2>
+<H3>Report Created in Power BI</H3>
 
 ![Nashville Power Bi image](https://github.com/SaVignesh/Data-Analysis-Projects/assets/47379614/09c52e5e-5f62-40fe-b373-9d9298233bb3)
