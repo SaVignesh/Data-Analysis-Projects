@@ -12,4 +12,5 @@ The following data cleaning operations are performed in this project:
    <li>Removing duplicate rows</li>
 </ul> 
 <H2>Report Created in Power BI</H2>
-![Nashville Power Bi image](https://github.com/SaVignesh/Data-Analysis-Projects/assets/47379614/f49e851f-bf8c-470f-b57c-63b482d5f5ac)
+
+![Nashville Power Bi image](https://github.com/SaVignesh/Data-Analysis-Projects/assets/47379614/09c52e5e-5f62-40fe-b373-9d9298233bb3)
