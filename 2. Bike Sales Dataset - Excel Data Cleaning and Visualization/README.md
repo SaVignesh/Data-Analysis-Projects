@@ -13,4 +13,5 @@ The following operations are performed in this project:
   <li>Added slicers to filter the visualizations based on Education, Cars Owned, Home Owners and Region</li>
 </ul>
 <H3>Bike Sales Dashboard</H3>
-![Bike Sales Dashboard](https://github.com/SaVignesh/Data-Analysis-Projects/assets/47379614/3e2abfd7-7976-442d-a471-6e4dd7360d41)
+
+![Bike Sales Dashboard](https://github.com/SaVignesh/Data-Analysis-Projects/assets/47379614/da631f5e-ece1-494f-ae28-95d0fd914a6b)
