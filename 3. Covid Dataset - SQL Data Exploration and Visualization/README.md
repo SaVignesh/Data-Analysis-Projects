@@ -17,4 +17,4 @@ The following Data Exploration operations were performed in this project: <Br>
 
 
 <H3>Further areas of improvement:</H3>
-Visualization needs to be performed on Covid-19 Casualty and Vaccination Data
+Visualization needs to be completed on Covid-19 Casualty and Vaccination Data
