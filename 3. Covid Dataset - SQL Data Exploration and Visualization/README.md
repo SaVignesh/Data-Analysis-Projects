@@ -1,4 +1,5 @@
 <H1>Covid Dataset - SQL Data Exploration and Visualization</H1>
+Data Source: https://ourworldindata.org/coronavirus   <Br> <Br>
 Exploration of Global Covid-19 data that contains daily covid updates for each country using SQL and visualization using Power BI. <Br> <Br>
 The following Data Exploration operations were performed in this project: <Br>
 <ul>
