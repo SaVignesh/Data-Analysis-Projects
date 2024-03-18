@@ -29,3 +29,12 @@ We cannot directly visualize answers for this question as the values are present
 <li>Created visualization for Survey Takers Response on Age Brackets, Education, Country, Current job role, Current industry, Cloud platform with best developer experience and Helpful learning platform</li>
 <li>Created Slicers to filter the visualizations on Gender, Student or Professional and Programming Experience in years</li>
 </ul>
+
+<H3>Report Created in Power BI</H3>
+
+![kaggle survey data_1](https://github.com/SaVignesh/Data-Analysis-Projects/assets/47379614/82517e75-4619-4e94-9f38-b8b794460a38)
+
+
+
+
+![kaggle survey data_2](https://github.com/SaVignesh/Data-Analysis-Projects/assets/47379614/1550848e-8c3d-412a-b215-cfb07790fca7)
