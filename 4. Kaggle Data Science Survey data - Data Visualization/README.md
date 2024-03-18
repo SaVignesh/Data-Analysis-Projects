@@ -7,16 +7,16 @@ The following operations were performed in this project:
 <ul>
   <li>Concatenated first two rows to get the complete question and make the question as the column header</li>
   <li>Created a custom column Age Bracket for Adolescent(18-29), Middle Aged (30,49) and Elderly (50+)</li>
-  <li> There are multiple choice questions in the survey and the answers for that question is entered in multiple columns.
-For example, Question 7 is "Which product or platform did you find the most helpful when you first started studying data science".
-There are options:
-● University courses
-● Online courses (Coursera, EdX, etc)
-● Social media platforms (Reddit, Twitter, etc)
-● Video platforms (YouTube, Twitch, etc)
-● Kaggle (notebooks, competitions, etc)
-● None / I do not study data science
-● Other 
+  <li> There are multiple choice questions in the survey and the answers for that question is entered in multiple columns.  <Br>
+For example, Question 7 is "Which product or platform did you find the most helpful when you first started studying data science".  <Br>
+There are options:  <Br> &nbsp;
+● University courses  <Br> &nbsp;
+● Online courses (Coursera, EdX, etc)  <Br> &nbsp;
+● Social media platforms (Reddit, Twitter, etc)  <Br> &nbsp;
+● Video platforms (YouTube, Twitch, etc)  <Br> &nbsp;
+● Kaggle (notebooks, competitions, etc)  <Br> &nbsp;
+● None / I do not study data science  <Br> &nbsp;
+● Other   <Br>
     If the survey taker selects 'University courses', then the column for 'University courses' will have the value while the columns for other options will be blank.
 If the survey taker selects 'University courses' and 'other', both columns will contain values while the rest of the columns will be blank.
 We cannot directly visualize answers for this question as the values are present in multiple columns.
