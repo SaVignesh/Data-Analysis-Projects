@@ -11,13 +11,14 @@ The following operations were performed in this project:
 For example, Question 7 is "Which product or platform did you find the most helpful when you first started studying data science".  <Br>
 There are options:  <Br> &nbsp;
     <ul>
-● University courses  <Br> &nbsp;
-● Online courses (Coursera, EdX, etc)  <Br> &nbsp;
-● Social media platforms (Reddit, Twitter, etc)  <Br> &nbsp;
-● Video platforms (YouTube, Twitch, etc)  <Br> &nbsp;
-● Kaggle (notebooks, competitions, etc)  <Br> &nbsp;
-● None / I do not study data science  <Br> &nbsp;
-● Other  </ul>
+      <li> University courses </li>
+<li> Online courses (Coursera, EdX, etc)  </li>
+<li>Social media platforms (Reddit, Twitter, etc) </li>
+<li>Video platforms (YouTube, Twitch, etc)</li>
+<li>Kaggle (notebooks, competitions, etc) </li>
+<li>None / I do not study data science </li>
+<li>Other </li>
+    </ul>
     <p>If the survey taker selects 'University courses', then the column for 'University courses' will have the value while the columns for other options will be blank.
 If the survey taker selects 'University courses' and 'other', both columns will contain values while the rest of the columns will be blank.
 We cannot directly visualize answers for this question as the values are present in multiple columns. </p>
