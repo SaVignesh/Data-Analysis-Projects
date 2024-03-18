@@ -10,4 +10,6 @@ The following Data Exploration operations were performed in this project: <Br>
   <li>Exploring dates when highest number of covid cases, casualties and vaccinations were observed for each country, continent and world</li>
 </ul>
 <H3>Report Created in Power BI</H3>
-![Covid Dataset](https://github.com/SaVignesh/Data-Analysis-Projects/assets/47379614/63825fbd-c548-429a-8a39-2cbe933e2b22)
+
+
+![Covid Dataset](https://github.com/SaVignesh/Data-Analysis-Projects/assets/47379614/4affd7af-93e0-4f1d-bde1-74d79e451477)
