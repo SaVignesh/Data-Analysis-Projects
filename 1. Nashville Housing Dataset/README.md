@@ -1,4 +1,4 @@
-<H1> Nashville Housing Dataset - Data Cleaning using SQL</H1>
+<H1> Nashville Housing Dataset - Data Cleaning using SQL and Visualization</H1>
 Nashville Housing dataset contains information on Sales of Houses.  <Br>
 This dataset contains columns for Parcel ID, Address, Sale Date, Sales Price etc. which needs to be cleaned before using for visualization.  The clean data will be used to create a report in Power BI. <Br> <Br>
 The following data cleaning operations are performed in this project:
