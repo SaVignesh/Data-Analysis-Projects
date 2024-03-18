@@ -1,5 +1,5 @@
 <H1>Covid Dataset - SQL Data Exploration and Visualization</H1>
-Exploration of Global Covid-19 data that contains daily covid updates for each country using SQL and visualization in Power BI. <Br>
+Exploration of Global Covid-19 data that contains daily covid updates for each country using SQL and visualization using Power BI. <Br> <Br>
 The following Data Exploration operations were performed in this project: <Br>
 <ul>
   <li>Changing datatype of few numeric columns like total cases, people vaccinated, etc. that were initialized as nvarchar datatype</li>
@@ -13,3 +13,7 @@ The following Data Exploration operations were performed in this project: <Br>
 
 
 ![Covid Dataset](https://github.com/SaVignesh/Data-Analysis-Projects/assets/47379614/4affd7af-93e0-4f1d-bde1-74d79e451477)
+
+
+<H3>Further areas of improvement:</H3>
+Visualization needs to be performed on Covid-19 Casualty and Vaccination Data
